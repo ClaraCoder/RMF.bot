@@ -1,0 +1,6 @@
+/RinggitFighterBot
+  |- bot.py
+  |- utils.py
+  |- admin.py    <-- (fail baru)
+  |- requirements.txt
+  |- README.txt
